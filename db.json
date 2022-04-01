@@ -78,18 +78,7 @@
                 "updated_at": "2021-11-02 09:44:20",
                 "id_product_category": "339826",
                 "id_catetory": "6",
-                "category": "Kurtas",
-                "variation": {
-                    "8": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819539344\/300\/21AUWS16774-216408_1.JPG",
-                        "id_product": "81446",
-                        "sku": "8907819539344",
-                        "configrable_atribute_value": "6",
-                        "price": "4999",
-                        "selling_price": "2499",
-                        "quantity": "1",
-                        "stock_status": "in-stock"
-                    }
+                "category": "Kurtas"
                 }
             },
             {
@@ -171,38 +160,7 @@
                 "updated_at": "2022-03-07 10:55:16",
                 "id_product_category": "404506",
                 "id_catetory": "6",
-                "category": "Kurtas",
-                "variation": {
-                    "10": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819629540\/300\/22FEW17292-116743_1.JPG",
-                        "id_product": "95435",
-                        "sku": "8907819629540",
-                        "configrable_atribute_value": "10",
-                        "price": "2499",
-                        "selling_price": "2499",
-                        "quantity": "3",
-                        "stock_status": "in-stock"
-                    },
-                    "14": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819629588\/300\/22FEW17292-116743_1.JPG",
-                        "id_product": "95439",
-                        "sku": "8907819629588",
-                        "configrable_atribute_value": "18",
-                        "price": "2499",
-                        "selling_price": "2499",
-                        "quantity": "1",
-                        "stock_status": "in-stock"
-                    },
-                    "56": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819629618\/300\/22FEW17292-116743_1.JPG",
-                        "id_product": "95440",
-                        "sku": "8907819629618",
-                        "configrable_atribute_value": "20",
-                        "price": "2499",
-                        "selling_price": "2499",
-                        "quantity": "1",
-                        "stock_status": "in-stock"
-                    }
+                "category": "Kurtas"
                 }
             },
             {
@@ -284,78 +242,7 @@
                 "updated_at": "2022-03-07 10:55:15",
                 "id_product_category": "404450",
                 "id_catetory": "6",
-                "category": "Kurtas",
-                "variation": {
-                    "8": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819502263\/300\/21AUW14029-311668_1.JPG",
-                        "id_product": "79558",
-                        "sku": "8907819502263",
-                        "configrable_atribute_value": "6",
-                        "price": "2999",
-                        "selling_price": "1499",
-                        "quantity": "3",
-                        "stock_status": "in-stock"
-                    },
-                    "9": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819502270\/300\/21AUW14029-311668_1.JPG",
-                        "id_product": "79559",
-                        "sku": "8907819502270",
-                        "configrable_atribute_value": "8",
-                        "price": "2999",
-                        "selling_price": "1499",
-                        "quantity": "9",
-                        "stock_status": "in-stock"
-                    },
-                    "10": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819502218\/300\/21AUW14029-311668_1.JPG",
-                        "id_product": "79560",
-                        "sku": "8907819502218",
-                        "configrable_atribute_value": "10",
-                        "price": "2999",
-                        "selling_price": "1499",
-                        "quantity": "11",
-                        "stock_status": "in-stock"
-                    },
-                    "11": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819502225\/300\/21AUW14029-311668_1.JPG",
-                        "id_product": "79561",
-                        "sku": "8907819502225",
-                        "configrable_atribute_value": "12",
-                        "price": "2999",
-                        "selling_price": "1499",
-                        "quantity": "8",
-                        "stock_status": "in-stock"
-                    },
-                    "12": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819502232\/300\/21AUW14029-311668_1.JPG",
-                        "id_product": "79562",
-                        "sku": "8907819502232",
-                        "configrable_atribute_value": "14",
-                        "price": "2999",
-                        "selling_price": "1499",
-                        "quantity": "9",
-                        "stock_status": "in-stock"
-                    },
-                    "13": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819502249\/300\/21AUW14029-311668_1.JPG",
-                        "id_product": "79563",
-                        "sku": "8907819502249",
-                        "configrable_atribute_value": "16",
-                        "price": "2999",
-                        "selling_price": "1499",
-                        "quantity": "7",
-                        "stock_status": "in-stock"
-                    },
-                    "14": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819502256\/300\/21AUW14029-311668_1.JPG",
-                        "id_product": "79564",
-                        "sku": "8907819502256",
-                        "configrable_atribute_value": "18",
-                        "price": "2999",
-                        "selling_price": "1499",
-                        "quantity": "4",
-                        "stock_status": "in-stock"
-                    }
+                "category": "Kurtas"
                 }
             },
             {
@@ -437,78 +324,7 @@
                 "updated_at": "2021-08-05 15:54:38",
                 "id_product_category": "279872",
                 "id_catetory": "6",
-                "category": "Kurtas",
-                "variation": {
-                    "8": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819921163\/300\/20FEW13464-114066_1.JPG",
-                        "id_product": "65568",
-                        "sku": "8907819921163",
-                        "configrable_atribute_value": "6",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "26",
-                        "stock_status": "in-stock"
-                    },
-                    "9": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819921170\/300\/20FEW13464-114066_1.JPG",
-                        "id_product": "65569",
-                        "sku": "8907819921170",
-                        "configrable_atribute_value": "8",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "4",
-                        "stock_status": "in-stock"
-                    },
-                    "10": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819921118\/300\/20FEW13464-114066_1.JPG",
-                        "id_product": "65563",
-                        "sku": "8907819921118",
-                        "configrable_atribute_value": "10",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "7",
-                        "stock_status": "in-stock"
-                    },
-                    "11": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819921125\/300\/20FEW13464-114066_1.JPG",
-                        "id_product": "65564",
-                        "sku": "8907819921125",
-                        "configrable_atribute_value": "12",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "15",
-                        "stock_status": "in-stock"
-                    },
-                    "12": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819921132\/300\/20FEW13464-114066_1.JPG",
-                        "id_product": "65565",
-                        "sku": "8907819921132",
-                        "configrable_atribute_value": "14",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "10",
-                        "stock_status": "in-stock"
-                    },
-                    "13": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819921149\/300\/20FEW13464-114066_1.JPG",
-                        "id_product": "65566",
-                        "sku": "8907819921149",
-                        "configrable_atribute_value": "16",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "28",
-                        "stock_status": "in-stock"
-                    },
-                    "14": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819921156\/300\/20FEW13464-114066_1.JPG",
-                        "id_product": "65567",
-                        "sku": "8907819921156",
-                        "configrable_atribute_value": "18",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "32",
-                        "stock_status": "in-stock"
-                    }
+                "category": "Kurtas"
                 }
             },
             {
@@ -590,78 +406,7 @@
                 "updated_at": "2021-08-05 15:54:28",
                 "id_product_category": "279019",
                 "id_catetory": "6",
-                "category": "Kurtas",
-                "variation": {
-                    "8": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819956097\/300\/20AUW13770-114732_1.JPG",
-                        "id_product": "61229",
-                        "sku": "8907819956097",
-                        "configrable_atribute_value": "6",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "12",
-                        "stock_status": "in-stock"
-                    },
-                    "9": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819956103\/300\/20AUW13770-114732_1.JPG",
-                        "id_product": "61230",
-                        "sku": "8907819956103",
-                        "configrable_atribute_value": "8",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "10",
-                        "stock_status": "in-stock"
-                    },
-                    "10": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819956042\/300\/20AUW13770-114732_1.JPG",
-                        "id_product": "61224",
-                        "sku": "8907819956042",
-                        "configrable_atribute_value": "10",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "23",
-                        "stock_status": "in-stock"
-                    },
-                    "11": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819956059\/300\/20AUW13770-114732_1.JPG",
-                        "id_product": "61225",
-                        "sku": "8907819956059",
-                        "configrable_atribute_value": "12",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "42",
-                        "stock_status": "in-stock"
-                    },
-                    "12": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819956066\/300\/20AUW13770-114732_1.JPG",
-                        "id_product": "61226",
-                        "sku": "8907819956066",
-                        "configrable_atribute_value": "14",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "16",
-                        "stock_status": "in-stock"
-                    },
-                    "13": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819956073\/300\/20AUW13770-114732_1.JPG",
-                        "id_product": "61227",
-                        "sku": "8907819956073",
-                        "configrable_atribute_value": "16",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "28",
-                        "stock_status": "in-stock"
-                    },
-                    "14": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819956080\/300\/20AUW13770-114732_1.JPG",
-                        "id_product": "61228",
-                        "sku": "8907819956080",
-                        "configrable_atribute_value": "18",
-                        "price": "1899",
-                        "selling_price": "949",
-                        "quantity": "7",
-                        "stock_status": "in-stock"
-                    }
+                "category": "Kurtas"
                 }
             },
             {
@@ -743,68 +488,7 @@
                 "updated_at": "2021-12-08 09:23:55",
                 "id_product_category": "353827",
                 "id_catetory": "6",
-                "category": "Kurtas",
-                "variation": {
-                    "8": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819505905\/300\/21AUW14106-117166_1.JPG",
-                        "id_product": "85824",
-                        "sku": "8907819505905",
-                        "configrable_atribute_value": "6",
-                        "price": "1999",
-                        "selling_price": "999",
-                        "quantity": "3",
-                        "stock_status": "in-stock"
-                    },
-                    "9": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819505912\/300\/21AUW14106-117166_1.JPG",
-                        "id_product": "85825",
-                        "sku": "8907819505912",
-                        "configrable_atribute_value": "8",
-                        "price": "1999",
-                        "selling_price": "999",
-                        "quantity": "3",
-                        "stock_status": "in-stock"
-                    },
-                    "10": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819505851\/300\/21AUW14106-117166_1.JPG",
-                        "id_product": "85826",
-                        "sku": "8907819505851",
-                        "configrable_atribute_value": "10",
-                        "price": "1999",
-                        "selling_price": "999",
-                        "quantity": "9",
-                        "stock_status": "in-stock"
-                    },
-                    "11": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819505868\/300\/21AUW14106-117166_1.JPG",
-                        "id_product": "85827",
-                        "sku": "8907819505868",
-                        "configrable_atribute_value": "12",
-                        "price": "1999",
-                        "selling_price": "999",
-                        "quantity": "10",
-                        "stock_status": "in-stock"
-                    },
-                    "12": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819505875\/300\/21AUW14106-117166_1.JPG",
-                        "id_product": "85828",
-                        "sku": "8907819505875",
-                        "configrable_atribute_value": "14",
-                        "price": "1999",
-                        "selling_price": "999",
-                        "quantity": "5",
-                        "stock_status": "in-stock"
-                    },
-                    "13": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819505882\/300\/21AUW14106-117166_1.JPG",
-                        "id_product": "85829",
-                        "sku": "8907819505882",
-                        "configrable_atribute_value": "16",
-                        "price": "1999",
-                        "selling_price": "999",
-                        "quantity": "2",
-                        "stock_status": "in-stock"
-                    }
+                "category": "Kurtas"
                 }
             },
             {
@@ -886,78 +570,8 @@
                 "updated_at": "2021-01-21 13:17:06",
                 "id_product_category": "78584",
                 "id_catetory": "6",
-                "category": "Kurtas",
-                "variation": {
-                    "8": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819354114\/300\/20SKW14948-112985_1.JPG",
-                        "id_product": "67419",
-                        "sku": "8907819354114",
-                        "configrable_atribute_value": "6",
-                        "price": "1699",
-                        "selling_price": "849",
-                        "quantity": "11",
-                        "stock_status": "in-stock"
-                    },
-                    "9": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819354121\/300\/20SKW14948-112985_1.JPG",
-                        "id_product": "67420",
-                        "sku": "8907819354121",
-                        "configrable_atribute_value": "8",
-                        "price": "1699",
-                        "selling_price": "849",
-                        "quantity": "8",
-                        "stock_status": "in-stock"
-                    },
-                    "10": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819354060\/300\/20SKW14948-112985_1.JPG",
-                        "id_product": "67421",
-                        "sku": "8907819354060",
-                        "configrable_atribute_value": "10",
-                        "price": "1699",
-                        "selling_price": "849",
-                        "quantity": "14",
-                        "stock_status": "in-stock"
-                    },
-                    "11": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819354077\/300\/20SKW14948-112985_1.JPG",
-                        "id_product": "67422",
-                        "sku": "8907819354077",
-                        "configrable_atribute_value": "12",
-                        "price": "1699",
-                        "selling_price": "849",
-                        "quantity": "11",
-                        "stock_status": "in-stock"
-                    },
-                    "12": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819354084\/300\/20SKW14948-112985_1.JPG",
-                        "id_product": "67423",
-                        "sku": "8907819354084",
-                        "configrable_atribute_value": "14",
-                        "price": "1699",
-                        "selling_price": "849",
-                        "quantity": "10",
-                        "stock_status": "in-stock"
-                    },
-                    "13": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819354091\/300\/20SKW14948-112985_1.JPG",
-                        "id_product": "67424",
-                        "sku": "8907819354091",
-                        "configrable_atribute_value": "16",
-                        "price": "1699",
-                        "selling_price": "849",
-                        "quantity": "21",
-                        "stock_status": "in-stock"
-                    },
-                    "14": {
-                        "image": "https:\/\/wforwoman.gumlet.io\/product\/8907819354107\/300\/20SKW14948-112985_1.JPG",
-                        "id_product": "67425",
-                        "sku": "8907819354107",
-                        "configrable_atribute_value": "18",
-                        "price": "1699",
-                        "selling_price": "849",
-                        "quantity": "5",
-                        "stock_status": "in-stock"
-                    }
+                "category": "Kurtas"
+                
                 }
             }
                 }
